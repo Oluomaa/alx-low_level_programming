@@ -1,1 +1,1 @@
-small head
+short head
